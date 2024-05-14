@@ -28,7 +28,6 @@ STEP:12 Load the Bit file into the SPARTAN 6 FPGA
 
 
 ## VERILOG CODE:
-
 ## FINITE STATE MACHINE:
 ```
 module FSM_moore(clk, rst, x, z);
